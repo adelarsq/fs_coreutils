@@ -109,5 +109,5 @@ Based on [Uutils CoreUtils](https://github.com/uutils/coreutils) but with F#.
 - [ ] wc         
 - [ ] who        
 - [ ] whoami     
-- [ ] yes        
+- [x] yes        
 
